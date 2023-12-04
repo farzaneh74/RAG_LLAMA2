@@ -1,4 +1,4 @@
-# Persian RAG System with Langchain and LLAMA 2
+# RAG System with Langchain and LLAMA 2
 This repository implements a retrieval-augmented generation (RAG) system for Persian documents using Langchain and LLAMA 2. RAG systems are a type of text generation model that combines retrieval and generation techniques to improve the quality of generated text.
 
 ## Background
